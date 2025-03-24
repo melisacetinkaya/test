@@ -1,0 +1,4 @@
+# ignore all png files
+*.jpg 
+#ignore receipts
+receipts/
