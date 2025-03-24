@@ -1,0 +1,5 @@
+hello from the text file
+bye!x
+i exist now 
+type stuff hre plz
+bye bye
